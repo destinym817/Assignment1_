@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Apres
+		</title>
+		<link 
+href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/
+normalize.min.css" rel="stylesheet">
+		<link href="styles/site.css" rel="stylesheet">
+	</head>
+	
+		<body>
+			<h1>Website 1</h1>
+			
+			<h2><a href="http://apres.no//">Apres</a></h2> 
+			<p> 	The Apres website is really cool. On the main page there is an image of a man that they styled. If you move from one  side of the webpage to the other, the styling of the man's hair slowly changes. I think that is a great idea because the website is for a salon. Another cool thing is when viewers move to another page quotes about the salon come up while you wait for the page you want to go to. I think that was a good idea because it makes you think possitively about the salon.  </p>
+			<img src="images/apres.png" alt="Screenshot of a Apres Webpage">
+		</body>
+</html>
