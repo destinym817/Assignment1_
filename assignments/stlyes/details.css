@@ -1,0 +1,16 @@
+body {
+	background: blue; 
+}
+
+
+h1 {
+	margin:0;
+	font-family: arial, script; 
+	font-style: italic;
+	font-weight: normal;
+	font-size: 120px;
+	line-height: 1.5; 
+	letter-spacing: .05em;
+	text-transform: uppercase; 
+	color: azure 
+}	
