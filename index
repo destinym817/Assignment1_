@@ -1,0 +1,199 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Destiny Moore's Portfolio</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!--
+    @NOTE Choose a "reset" stylesheet
+    I've enabled santize by default, but you can also choose
+    Normalize
+    Eric Meyer's Reset
+    -->
+    <link rel="stylesheet" href="../css/vendor/sanitize.css">
+    <!-- <link rel="stylesheet" href="css/vendor/normalize.css"> -->
+    <!-- <link rel="stylesheet" href="css/vendor/reset.css"> -->
+
+    <!--
+    @NOTE Enable Skeleton's Grid
+    -->
+    <link rel="stylesheet" href="../css/vendor/skeleton.css">
+
+    <!--
+    @NOTE Enable Boilerplate's helpers
+    This include some simple utility classes
+    -->
+    <link rel="stylesheet" href="../css/vendor/boilerplate.css">
+
+    <!--
+    @NOTE Enable Skeleton's basic styling
+    This styles things like buttons and tables.
+    -->
+    <!-- <link rel="stylesheet" href="css/vendor/skeleton-styles.css"> -->
+
+
+    <link rel="stylesheet" href="../css/main.css">
+ 	<link rel="stylesheet" href="../css/custom.css">	
+ 	
+    <!-- Modernizr detects a browsers different capabilities -->
+    <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+  </head>
+  <body class="l-assignments">
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+   <header class="site-masthead" role="banner">
+   		<h1 class="site-masthead__logo">Destiny Moore's Portfolio</h1>
+   		<button class="site-masthead__toggle" id="js-toggle">Menu</button>
+   		<nav class="site-masthead__menu" role="navigation">
+   			<strong class="visuallyhidden"> Primary Navigation> </strong>
+   			
+   			<ul class="site-masthead__primary nav" role="menubar">
+   				<li class="primary__item">
+   					<a class="primary__link" href="posts/index.html">
+   						Posts
+   					</a>
+   					<li class="primary__item">
+   					<a class="primary__link" href="posts/index.html">
+   						Projects
+   					</a>
+   					<li class="primary__item">
+   					<a class="primary_link" href="posts/index.html">
+   						About
+   					</a>
+   				</li>
+   			</ul>
+   		
+   		</nav>
+   	</header>
+   
+ 
+ 
+ 
+ <div class="site-content">
+ <div class="container">
+ 	<ul class="grid-list">
+ 		
+ 		<li class="grid-list__item">
+ 			<a class="Giulian Drimba's doublepi.me" href="assignment1.html">
+ 				<img class="images/doublepi.me.png" src="images/doublepi.me.png" alt="">
+ 				<h3 class="block-overlay__content">Giulian Drimba</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Neil Carpernter's Website" href="assignment2.html">
+ 				<img class="images/neilcarpenterWebsite.png" src="images/neilcarpenterWebsite.png" alt="">
+ 				<h3 class="block-overlay__content">Neil Carpenter</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Apres" href="assignment3.html">
+ 				<img class="images/apres.png" src="images/apres.png" alt="">
+ 				<h3 class="block-overlay__content">Apres</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Coleman Smith" href="assignment4.html">
+ 				<img class="images/coleman-smith.png" src="images/coleman-smith.png" alt="">
+ 				<h3 class="block-overlay__content">Coleman Smith</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Circles" href="assignment5.html">
+ 				<img class="images/circles.png" src="images/circles.png" alt="">
+ 				<h3 class="block-overlay__content">Circles</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Yield" href="assignment6.html">
+ 				<img class="images/yield.png" src="images/yield.png" alt="">
+ 				<h3 class="block-overlay__content">Yield</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Rosewater" href="assignment7.html">
+ 				<img class="images/rosewater.png" src="images/rosewater.png" alt="">
+ 				<h3 class="block-overlay__content">Rosewater</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Dr Morse" href="assignment8.html">
+ 				<img class="http://www.drmorse.com.au/" src="images/dr-morse.png" alt="">
+ 				<h3 class="block-overlay__content">Dr Morse</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Cafe Frida" href="assignment9.html">
+ 				<img class="images/cafefrida.png" src="images/cafefrida.png" alt="">
+ 				<h3 class="block-overlay__content">Cafe Frida</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Rob Lutter" href="assignment10.html">
+ 				<img class="images/rob-lutter.png" src="images/rob-lutter.png" alt="">
+ 				<h3 class="block-overlay__content">Rob Lutter</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="True Digital" href="assignment11.html">
+ 				<img class="images/true.png" src="images/true.png" alt="">
+ 				<h3 class="block-overlay__content">True Digital</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Opera" href="assignment12.html">
+ 				<img class="images/opera.png" src="images/opera.png" alt="">
+ 				<h3 class="block-overlay__content">Opera</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Deuster" href="assignment13.html">
+ 				<img class="images/deuster.png" src="images/deuster.png" alt="">
+ 				<h3 class="block-overlay__content">Deuster</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Cake Teacher" href="assignment14.html">
+ 				<img class="images/cake-teacher.png" src="images/cake-teacher.png" alt="">
+ 				<h3 class="block-overlay__content">Cake Teacher</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__item">
+ 			<a class="Ditto" href="assignment15.html">
+ 				<img class="images/ditto.png" src="images/ditto.png" alt="">
+ 				<h3 class="block-overlay__content">Ditto</h3>
+ 			</a>
+ 			</li>
+ 			<li class="grid-list__placeholder"> </li>
+ 			<li class="grid-list__placeholder"> </li>
+ 	</ul>
+ 	</div>
+ </div>  
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+    <!--
+    @NOTE Google Analytics:
+    change UA-XXXXX-X to be your site's ID.
+    -->
+    <!-- <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='https://www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+    </script> -->
+  </body>
+</html>
